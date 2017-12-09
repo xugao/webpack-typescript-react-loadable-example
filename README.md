@@ -1,5 +1,5 @@
 # webpack-typescript-react-loadable-example
-A demo on using react-loadable to dynamically import component using typescript and webpack
+An example of using react-loadable to dynamically import component along with typescript and webpack
 
 ### Output bundles
 
